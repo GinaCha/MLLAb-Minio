@@ -20,8 +20,8 @@
 
 
 ```bash
-    docker build -t mlllab-minio:0.1.0 .
-    docker run --name=mlllab-minio -p 9000:9000 -p 9001:9001  -it  -v minio_data:/data --rm mlllab-minio:0.1.0 
+    docker build -t mllab-minio:0.1.0 .
+    docker run --name=mllab-minio -p 9000:9000 -p 9001:9001  -it  -v minio_data:/data --rm mllab-minio:0.1.0 
 ```
 
 ---
