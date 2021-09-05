@@ -45,3 +45,6 @@ This project is licensed under the Apache License  - see the [LICENSE](LICENSE) 
 <br>
 
 ## Acknowledgments
+
+- [Minio Github Repo](https://github.com/minio/minio)
+- [minio/minio:RELEASE.2021-09-03T03-56-13Z.fips](https://hub.docker.com/layers/minio/minio/RELEASE.2021-09-03T03-56-13Z.fips/images/sha256-f3dc723cdf3dfba75b2b34e4e3e7c567da31fa9c5b978035569b622b6bd27ca9?context=explore)
