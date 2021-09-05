@@ -1,7 +1,9 @@
 # MLLAb-Minio
 
+<p align="center">
+  <img height="350" src="assets/images/minio-preview.png">
+</p>
 
-minio-preview
 ---
 
 <br>
